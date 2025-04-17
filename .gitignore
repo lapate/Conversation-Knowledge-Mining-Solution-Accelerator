@@ -10,3 +10,6 @@
 /LUISSchemaSerializationTool/LUISSchemaSerializationTool/obj
 .fake
 .azure
+notebooks/chapter_results.json
+notebooks/scene_results.json
+.gitignore
